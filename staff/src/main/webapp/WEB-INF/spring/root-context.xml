@@ -10,5 +10,4 @@
 		<property name="username" value="kedu"/>
 		<property name="password" value="1234"/>
 	</bean>
-
 </beans>
